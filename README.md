@@ -1,0 +1,1 @@
+# kagels-sp500-signale
